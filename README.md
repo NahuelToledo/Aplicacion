@@ -8,4 +8,4 @@ entrada y salida de datos, estructuras condicionales, listas, tuplas, diccionari
 de usuario, y se emplean funciones lambda con eventos para mejorar la interacción con el usuario. El proyecto se estructura siguiendo los principios de la 
 programación orientada a objetos y se enfoca en la modularización del código para lograr un desarrollo organizado y mantenible.
 
-(Configuración de Servidor Requerida: Ingrese usuario y contraseña en base_datos.py a partir de la línea 6 en la carpeta 'bd' para conectarse a su servidor de base de datos)"
+(Configuración de Servidor Requerida: Ingrese usuario y contraseña en base_datos.py a partir de la línea 6 en la carpeta 'bd' para conectarse a su servidor de base de datos)
